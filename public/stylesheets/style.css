@@ -45,6 +45,7 @@ textarea, input {
   padding: .5%;
   border-radius: 5px;
   border: 1px solid #ccc;
+  background-color: lightgray;
 }
 
 textarea:focus, input:focus {
@@ -187,7 +188,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: lightgray;
 }
 
 .comment .meta {
